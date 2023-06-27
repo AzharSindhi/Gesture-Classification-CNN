@@ -1,0 +1,1 @@
+{"mode": "train", "epoch": 1, "iter": 50, "lr": 0.00198, "memory": 7109, "data_time": 0.05464, "loss_rpn_cls": 0.40122, "loss_rpn_bbox": 0.06135, "loss_cls": 0.46091, "acc": 88.56543, "loss_bbox": 0.05733, "loss": 0.98081, "time": 0.50816}
